@@ -103,7 +103,7 @@ export default function Footer() {
         <div className="border-t border-slate-200 dark:border-slate-700 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <div className="flex items-center gap-2 text-sm text-slate-500 dark:text-slate-400">
-              <span>© {new Date().getFullYear()} John Doe. Made with</span>
+              <span>© {new Date().getFullYear()} Devano. Made with</span>
               <Heart className="h-4 w-4 text-red-400 animate-pulse" />
               <span>in Indonesia</span>
             </div>
