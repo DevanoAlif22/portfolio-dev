@@ -41,7 +41,7 @@ export default function WorkDetail({ params }: { params: { id: string } }) {
   return (
     <div className="min-h-screen bg-slate-950 text-white">
       <div className="py-20 px-10 md:px-0">
-        <div className="container max-w-8xl px-20 mx-auto">
+        <div className="container px-0 md:px-20 mx-auto">
           <Button
             asChild
             variant="ghost"
