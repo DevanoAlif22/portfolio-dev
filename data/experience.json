@@ -1,0 +1,172 @@
+[
+  {
+    "id": 20,
+    "nama": "Juara 1 Software Development",
+    "detail": "Juara 2 Lomba Software Development PEKAN IT UNSIKA 2024",
+    "kategori": "Pengalaman",
+    "main_image": "/json/img/pengalaman9-main.png",
+    "sub_images": [
+      "/json/img/pengalaman9-sub1.png",
+      "/json/img/pengalaman9-sub2.png",
+      "/json/img/pengalaman9-3.png",
+      "/json/img/pengalaman9-sub4.png"
+    ],
+    "description": "Tepat pada tanggal 22 September 2024 saya dan rekan tim mengikuti kompetisi PEKAN IT 2024 UNSIKA 'Software Development' tingkat nasional dan berhasil meraih 'Juara 1' di kompetisi tersebut. Kami membawa Website Kelas Setera (lebih detail di My Work) dalam perlombaan ini. Kami membawa tema pendidikan dimana website ini adalah E-Learning dengan fitur Voice to Action, Text to voice dan Text to Sign Video <br> Selengkapnya : <a href='https://itats.ac.id/mahasiswa-sistem-informasi-itats-raih-juara-1-dalam-perlombaan-software-development-di-pekan-it-2024/'>disini</a>"
+  },
+  {
+    "id": 13,
+    "nama": "Juara 2 WebDev",
+    "detail": "Juara 2 Lomba WebDev I/OFEST UNTAR 2023",
+    "kategori": "Pengalaman",
+    "main_image": "https://res.cloudinary.com/dbb2obawu/image/upload/v1723005131/portfolio/pengalaman-1/pengalaman1-main_rw1iy4.png",
+    "sub_images": [
+      "https://res.cloudinary.com/dbb2obawu/image/upload/v1723005249/portfolio/pengalaman-1/website3-sub3_fsoj2l.png",
+      "https://res.cloudinary.com/dbb2obawu/image/upload/v1723005251/portfolio/pengalaman-1/website3-sub1_rh50rq.png",
+      "https://res.cloudinary.com/dbb2obawu/image/upload/v1723005260/portfolio/pengalaman-1/website3-sub4_vwftak.png",
+      "https://res.cloudinary.com/dbb2obawu/image/upload/v1723005262/portfolio/pengalaman-1/website3-sub2_dcarq2.png"
+    ],
+    "description": "Tepat pada tanggal 25 Mei 2023 saya dan rekan tim mengikuti kompetisi I/OFEST Universitas Tarumanegara 'Web Development' tingkat nasional dan berhasil meraih 'Juara 2' di kompetisi tersebut. Kami membawa Website Health Care (lebih detail di My Work) dalam perlombaan ini. Kami sangat bangga karena dapat berkompetisi dengan teman-teman dari Universitas Negeri seperti Universitas Indonesia, Universitas Brawijaya dan yang lainnya <br> Github Code : <a href='https://github.com/DevanoAlif22/Health-Care'>disini</a>"
+  },
+  {
+    "id": 14,
+    "nama": "Finalist WebDev",
+    "detail": "Finalis Lomba WebDev INVFEST 8.0 2023",
+    "kategori": "Pengalaman",
+    "main_image": "https://res.cloudinary.com/dbb2obawu/image/upload/v1723005663/portfolio/pengalaman-2/pengalaman2-main_al5xve.jpg",
+    "sub_images": [
+      "https://res.cloudinary.com/dbb2obawu/image/upload/v1723005665/portfolio/pengalaman-2/pengalaman2-sub1_cdl4ql.png",
+      "https://res.cloudinary.com/dbb2obawu/image/upload/v1723005692/portfolio/pengalaman-2/website4-sub3_cdvqmf.png",
+      "https://res.cloudinary.com/dbb2obawu/image/upload/v1723005692/portfolio/pengalaman-2/website4-sub2_c69hiy.png",
+      "https://res.cloudinary.com/dbb2obawu/image/upload/v1723005694/portfolio/pengalaman-2/website4-sub1_olysg8.png"
+    ],
+    "description": "Tepat pada Desember 2023 kami mengikuti lomba Web Application yang diadakan oleh IT Telkom Purwokerto dan tim saya sebagai ketua tim, dimana tim saya mendapatkan prestasi finalis 5 besar terbaik. Ini adalah kali ketiga tim kami mengikuti lomba website. Kami mengangkat permasalahan kesehatan mental yang akhir-akhir ini lagi maraknya dan kami berinisiatif membuat website dengan nama Mental Health (lebih detail di My Work) yang bisa di cek di link github kami <a href='https://github.com/DevanoAlif22/Mental-Health'>disini</a>"
+  },
+  {
+    "id": 15,
+    "nama": "Finalist WebDev",
+    "detail": "Finalis Lomba WebDev INVFEST 7.0 2022",
+    "kategori": "Pengalaman",
+    "main_image": "https://res.cloudinary.com/dbb2obawu/image/upload/v1723005854/portfolio/pengalaman-3/pengalaman3-main_j3pxal.png",
+    "sub_images": [
+      "https://res.cloudinary.com/dbb2obawu/image/upload/v1723005881/portfolio/pengalaman-3/website5-sub2_rodsz6.png",
+      "https://res.cloudinary.com/dbb2obawu/image/upload/v1723005882/portfolio/pengalaman-3/website5-sub4_y61s8k.png",
+      "https://res.cloudinary.com/dbb2obawu/image/upload/v1723005883/portfolio/pengalaman-3/website5-sub1_nq8gbh.png",
+      "https://res.cloudinary.com/dbb2obawu/image/upload/v1723005888/portfolio/pengalaman-3/website5-sub3_ihvgcx.png"
+    ],
+    "description": "Tepat pada tanggal 19 November 2022 saya dan rekan tim saya ikut serta mengikuti lomba 'Web Application' yang di selenggarakan oleh program studi teknik informatika Institut Teknologi Telkom Purwokerto. Kami membawa website AdaSampah dalam perlombaan ini dan berhasil menjadi Finalis 5 besar."
+  },
+  {
+    "id": 199,
+    "nama": "Magang MSIB 7 Fullstack Web Developer PT OTAK KANAN",
+    "detail": "Magang MSIB 7 Fullstack Web Developer PT OTAK KANAN",
+    "kategori": "Pengalaman",
+    "main_image": "/json/img/pengalaman11-main.jpeg",
+    "sub_images": [
+      "/json/img/pengalaman11-sub1.jpeg",
+      "/json/img/pengalaman11-sub2.jpeg",
+      "/json/img/pengalaman11-sub3.jpeg",
+      "/json/img/pengalaman11-sub4.jpeg",
+      "/json/img/pengalaman11-sub5.jpeg"
+    ],
+    "description": "Pada 6 September sampai dengan 31 Desember 2024, saya melaksanakan program Magang MSIB 7 sebagai Fullstack Web Developer di PT Otak Kanan. Syukur alhamdulillah saya dapat menyelesaikan program ini dengan hasil sebagai berikut:\n\n1. Pengerjaan Website Portal Sekolah SMK Negeri 2 Mojokerto\nFokus saya pada proyek ini meliputi:\n- Konversi dari Golang ke Laravel dalam pembuatan Backend API\n- Konversi tampilan user dari Golang ke Blade Laravel\n- Pembuatan dashboard admin menggunakan library React JS\n- Styling frontend menggunakan Tailwind CSS\n\n2. Pengerjaan Website Penyewaan Ruangan Meeting dan Kantor Virtual \"Graha Office\"\nFokus saya pada proyek ini meliputi:\n- Pembuatan website e-commerce untuk penyewaan ruangan meeting dan kantor virtual\n- Pengembangan layanan eksternal, menambah cakupan layanan PT Otak Kanan untuk mitra\n- Penggunaan Laravel 11 sebagai backend dan Tailwind CSS untuk tampilan blade (frontend)\n\n3. Koordinator Tim Magang Fullstack Web Developer\nTanggung jawab saya mencakup:\n- Menjadi koordinator peserta magang mandiri Fullstack Web Developer di PT Otak Kanan\n- Bertindak sebagai Project Manager pada proyek Graha Office\n- Memanajemen proyek dan kolaborasi tim magang mandiri di bidang Fullstack Web"
+  },
+  {
+    "id": 333,
+    "nama": "Pembicara Event SurabayaDev",
+    "detail": "Pembicara Event Upgrading Internal SurabayaDev",
+    "kategori": "Pengalaman",
+    "main_image": "/json/img/pengalaman12-main.jpeg",
+    "sub_images": [
+      "/json/img/pengalaman12-sub1.jpeg",
+      "/json/img/pengalaman12-sub2.jpeg",
+      "/json/img/pengalaman12-sub3.jpeg",
+      "/json/img/pengalaman12-sub4.jpeg"
+    ],
+    "description": "Pada tanggal 8 Maret 2025, saya berkesempatan menjadi pembicara dalam acara upgrading internal komunitas SurabayaDev yang diselenggarakan di Urban Office Surabaya. Kesempatan ini merupakan kali pertama saya menjadi pemateri dalam agenda seminar atau workshop IT secara offline.\n\nDalam sesi ini, saya membawakan materi berjudul \"Penerapan Protokol WebSocket dan Gemini AI pada Aplikasi Chat Real-Time\" kepada anggota internal SurabayaDev. Materi ini terinspirasi dari perkembangan teknologi seperti integrasi Meta AI dalam grup WhatsApp.\n\nSesi disampaikan melalui presentasi slide dan dilanjutkan dengan pembuatan program secara langsung (live coding).\n\nOutput dari program adalah aplikasi chat real-time dalam jaringan lokal, dengan fitur:\n- Pengguna dapat bergabung dalam grup seperti WhatsApp\n- Mendukung pengiriman teks, gambar, dan file\n- Integrasi Gemini AI untuk merespons secara real-time\n\nTeknologi yang digunakan:\n- **Server:** Express.js dengan plugin generative-ai, http, dan ws\n- **Client:** HTML, CSS, dan JavaScript Native\n\nLink Materi: https://lnkd.in/gBtXY6Tb\nLink Program: https://lnkd.in/ggcpUAZP"
+  },
+  {
+    "id": 196,
+    "nama": "Pemateri SIBARA HIMSI ITATS",
+    "detail": "Pemateri dan Koordinator Event SIBARA HIMSI ITATS",
+    "kategori": "Pengalaman",
+    "main_image": "/json/img/pengalaman13-main.jpeg",
+    "sub_images": [
+      "/json/img/pengalaman13-sub1.jpeg",
+      "/json/img/pengalaman13-sub2.jpeg",
+      "/json/img/pengalaman13-sub3.jpeg",
+      "/json/img/pengalaman13-sub4.jpeg"
+    ],
+    "description": "Sistem Informasi ITATS Belajar Bareng (SIBARA) adalah event baru yang diinisiasi oleh Divisi IPTEK HIMSI ITATS. Event ini belum pernah ada sebelumnya di HIMSI ITATS dan saya dipercaya sebagai Koordinator sekaligus Ketua Pelaksana.\n\nSIBARA dirancang sebagai seminar atau workshop untuk memberikan tambahan pembelajaran seputar dunia teknologi bagi mahasiswa Sistem Informasi ITATS. Event ini dibawakan oleh satu pemateri utama serta dibantu oleh beberapa mahasiswa sebagai pendamping belajar audiens.\n\nSIBARA telah terlaksana dalam dua sesi, yaitu:\n💻 Sesi 1: Tak Kenal Maka Tak Bisa (Dasar Pemrograman Website) – 16 April 2025\n💻 Sesi 2: Curi Start Buat Website Pertamamu (Membuat Website Portofolio Sederhana) – 23 April 2025\n\nSaya menjadi pemateri utama pada dua sesi pertama untuk membuka dan menjalankan event ini. Antusiasme mahasiswa, khususnya mahasiswa baru, sangat tinggi. Banyak dari mereka datang lebih awal dan bahkan meminta tambahan waktu agar sesi belajar dapat diperpanjang.\n\nLink Materi dan Program: https://lnkd.in/gsrReEh5"
+  },
+  {
+    "id": 132,
+    "nama": "MC Jatim Developer Day 2024",
+    "detail": "MC Main Event Jatim Developer Day 2024",
+    "kategori": "Pengalaman",
+    "main_image": "/json/img/pengalaman10-main.jpg",
+    "sub_images": [
+      "/json/img/pengalaman10-sub1.jpg",
+      "/json/img/pengalaman10-sub2.jpg",
+      "/json/img/pengalaman10-sub3.jpg",
+      "/json/img/pengalaman10-sub4.jpg"
+    ],
+    "description": "Tepat pada tanggal 2 November 2024 adalah diselenggarakannya Jatim Developer Day 2024 dengan tema 'Sinergi dan Kolaborasi : Membangun Ekosistem IT di Jawa Timur Melalui Komunitas'. JDD 2024 adalah Acara tahunan yang mengumpulkan talenta teknologi dari seluruh Jawa Timur. Terdapat 3 Main Speaker yaitu Erico Darmawan Handoyo, Setia Budi dan Doni Rubiagatra dan 10+ Kelas Paralel yang di isi oleh 15+ pembicara. Saya juga berkontribusi pada divisi Acara sebagai Master of Ceremony atau MC dengan Arsya Amalia Ristias yang memandu jalannya acara."
+  },
+  {
+    "id": 16,
+    "nama": "Coding Talent",
+    "detail": "Mentor Coding Talent SD Mumtaz Sidoarjo",
+    "kategori": "Pengalaman",
+    "main_image": "https://res.cloudinary.com/dbb2obawu/image/upload/v1723006083/portfolio/pengalaman-4/pengalaman4-main_oi9hi0.jpg",
+    "sub_images": [
+      "https://res.cloudinary.com/dbb2obawu/image/upload/v1723006086/portfolio/pengalaman-4/pengalaman4-sub2_tekea9.jpg",
+      "https://res.cloudinary.com/dbb2obawu/image/upload/v1723006084/portfolio/pengalaman-4/pengalaman4-sub4_zkvcyd.jpg",
+      "https://res.cloudinary.com/dbb2obawu/image/upload/v1723006080/portfolio/pengalaman-4/pengalaman4-sub3_hnqtpg.jpg",
+      "https://res.cloudinary.com/dbb2obawu/image/upload/v1723006081/portfolio/pengalaman-4/pengalaman4-sub1_sigwmd.jpg"
+    ],
+    "description": "Di tengah liburan semester 3, saya mendapatkan kesempatan untuk menjadi mentor atau pengajar di kelas 'Talent Coding' SD Muhammadiyah 1&2 Taman. Saya sangat senang bisa sharing ilmu seputar teknologi kepada adik-adik yang super keren dan pintar ini. Ternyata negeri ini tidak kekurangan generasi yang unggul dan antusias dalam dunia Teknologi"
+  },
+
+  {
+    "id": 17,
+    "nama": "MC SurabayaDev Anniv 10th",
+    "detail": "MC Main Event SurabayaDev Anniversary 10th",
+    "kategori": "Pengalaman",
+    "main_image": "https://res.cloudinary.com/dbb2obawu/image/upload/v1723006254/portfolio/pengalaman-5/pengalaman5-main_z1oea0.png",
+    "sub_images": [
+      "https://res.cloudinary.com/dbb2obawu/image/upload/v1723006251/portfolio/pengalaman-5/pengalaman5-sub2_glqpdg.jpg",
+      "https://res.cloudinary.com/dbb2obawu/image/upload/v1723006252/portfolio/pengalaman-5/pengalaman5-sub1_zf3xwt.jpg",
+      "https://res.cloudinary.com/dbb2obawu/image/upload/v1723006255/portfolio/pengalaman-5/pengalaman5-sub4_bzlkni.jpg",
+      "https://res.cloudinary.com/dbb2obawu/image/upload/v1723006257/portfolio/pengalaman-5/pengalaman5-sub3_oer5nm.jpg"
+    ],
+    "description": "SurabayaDev Anniversary 10th adalah Event yang terdiri dari beberapa agenda yaitu [ Meetup Roadshow - UI/UX Competition - Coding Competition dan Main event ] yang di selenggarakan oleh SurabayaDev dan di support langsung oleh Himpunan Mahasiswa Teknik Informatika Universitas 17 Agustus 1945 Surabaya untuk memperingati ulang tahun Komunitas Surabaya Developer yang ke 10. <br> Dalam kesempatan ini saya turut ber kontribusi sebagai PIC UI/UX Competition, MC UI/UX Competition dan MC di Main Event SurabayaDev Anniv 10th. Saya sangat senang sekali karena sebelumnya hanya bisa ikut lomba saja, di kesempatan ini saya menjadi penanggung jawab lomba UIUX dan MC di Main Event.<br>Sangat bersyukur sekali, karena bisa ber tatap muka secara langsung dengan Pak Sandhika Galih Sandhika Galih selaku Founder dari WPU."
+  },
+  {
+    "id": 19,
+    "nama": "MC HacktoberFest 2023",
+    "detail": "MC HacktoberFest 2023",
+    "kategori": "Pengalaman",
+    "main_image": "/json/img/pengalaman7-main.jpg",
+    "sub_images": [
+      "/json/img/pengalaman7-sub1.jpg",
+      "/json/img/pengalaman7-sub4.jpg",
+      "/json/img/pengalaman7-sub3.jpg",
+      "/json/img/pengalaman7-sub4.jpg"
+    ],
+    "description": "Tepat pada tanggal 22 Oktober 2023, saya di amanahi untuk menjadi moderator di offline meetup hacktoberfest 2023 : A Celebration of Code and Collaboration. Hacktoberfest adalah event offline dengan kolaborasi komunitas IT Terbesar di Surabaya, dimana terdapat 2 materi yaitu 'Github Action' dan 'Penetration Test' yang di selenggarakan di universitas 17 Agustus 1945 Surabaya. Event ini di organisir langsung oleh 12 komunitas IT di Surabaya dan di support oleh jagoan hosting, indocenter dan hacktiv8"
+  },
+  {
+    "id": 21,
+    "nama": "Workshop Web Programming2",
+    "detail": "Pemateri Workshop Web Programming HIMSI ITATS",
+    "kategori": "Pengalaman",
+    "main_image": "https://res.cloudinary.com/dbb2obawu/image/upload/v1723006701/portfolio/pengalaman-6/pengalaman6-main_sz8t3r.jpg",
+    "sub_images": [
+      "https://res.cloudinary.com/dbb2obawu/image/upload/v1723006702/portfolio/pengalaman-6/pengalaman6-sub3_abbxwv.jpg",
+      "https://res.cloudinary.com/dbb2obawu/image/upload/v1723006702/portfolio/pengalaman-6/pengalaman6-sub2_u040y0.jpg",
+      "https://res.cloudinary.com/dbb2obawu/image/upload/v1723006701/portfolio/pengalaman-6/pengalaman6-sub4_th6oaz.jpg",
+      "https://res.cloudinary.com/dbb2obawu/image/upload/v1723006706/portfolio/pengalaman-6/pengalaman6-sub1_hwxl6w.png"
+    ],
+    "description": "Saya dan tim kampus Institut Teknologi Adhi Tama Surabaya lainnya menjalankan program 'Workshop Web Programming' di SMK Rajasa Surabaya pada tanggal 17 November, 29 November dan 1 Desember 2023 yang di selenggarakan oleh HIMSI ITATS. <br> Kami sharing materi tentang pembuatan website seperti HTML, CSS dan bootstrap beserta praktik langsung membuat website portofolio dengan modul yang kami siapkan di link berikut devanorama321.github.io. Senang sekali bisa berkumpul dengan orang-orang yang ahli di bidangnya dan bisa sharing ilmu ke temen-temen SMK"
+  }
+]
