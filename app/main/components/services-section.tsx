@@ -25,9 +25,9 @@ const services = [
     bgGradient: "from-blue-500/10 to-cyan-500/10",
   },
   {
-    title: "Speaker / Pemateri",
+    title: "Tech Speaker",
     description:
-      "Menyampaikan materi seputar teknologi dalam berbagai event seperti seminar, workshop, dan komunitas.",
+      "Delivering insightful talks on technology at events such as seminars, workshops, and community meetups.",
     icon: Mic,
     gradient: "from-green-500 to-emerald-500",
     bgGradient: "from-green-500/10 to-emerald-500/10",
