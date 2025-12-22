@@ -1,5 +1,19 @@
 [
   {
+    "id": 0,
+    "nama": "E-Notaris",
+    "detail": "Website Praktik Notaris Online",
+    "kategori": "Website",
+    "main_image": "/json/img/website0-main.png",
+    "sub_images": [
+      "/json/img/website0-sub1.png",
+      "/json/img/website0-sub2.png",
+      "/json/img/website0-sub3.png",
+      "/json/img/website0-sub4.png"
+    ],
+    "description": "e-Notaris adalah aplikasi berbasis web yang dirancang untuk membantu pengelolaan aktivitas kenotariatan secara digital, mulai dari pencatatan akta, pengelolaan klien, hingga monitoring aktivitas notaris secara terstruktur dan efisien. Aplikasi ini ditujukan untuk meningkatkan efektivitas kerja notaris serta meminimalisir kesalahan administrasi. <br><br>Saya berkontribusi sebagai Backend dan Frontend Developer dalam pengembangan aplikasi ini. Proses pengembangan berlangsung selama kurang lebih 3 bulan, dengan pengembangan berkelanjutan untuk peningkatan fitur dan maintenance sistem. <br><br>Website ini dikembangkan menggunakan tech stack berikut: <br>Bahasa Pemrograman: PHP, JavaScript <br>Framework: Laravel, React <br>Database: MySQL <br>Lainnya: HTML, CSS, Tailwind CSS, Docker, Nginx <br>Fitur Utama: Manajemen klien, pengelolaan akta, aktivitas notaris, autentikasi berbasis token, dan dashboard administrasi <br>Link: <a href='https://enotaris-fe.web.id' target='_blank'>di sini</a>"
+  },
+  {
     "id": 1,
     "nama": "Surabaya Suites",
     "detail": "Website Surabaya Suites",

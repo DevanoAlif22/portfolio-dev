@@ -4,7 +4,7 @@ import { useEffect } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
 
-import { Code, LayoutDashboard, Mic, Database } from "lucide-react";
+import { Code, Server, Mic, Database } from "lucide-react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 
 const services = [
@@ -17,10 +17,10 @@ const services = [
     bgGradient: "from-purple-500/10 to-pink-500/10",
   },
   {
-    title: "UI/UX Design",
+    title: "DevOps",
     description:
-      "Create beautiful and intuitive user interfaces that enhance user experience.",
-    icon: LayoutDashboard,
+      "Set up CI/CD pipelines, containerization, and deployment using tools like Docker, Nginx, and cloud servers.",
+    icon: Server, // dari lucide-react
     gradient: "from-blue-500 to-cyan-500",
     bgGradient: "from-blue-500/10 to-cyan-500/10",
   },

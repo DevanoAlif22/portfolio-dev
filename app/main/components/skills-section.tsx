@@ -11,6 +11,7 @@ import {
   Globe,
   Layers,
   Wrench,
+  Boxes,
 } from "lucide-react";
 
 const skills = [
@@ -43,7 +44,7 @@ const skills = [
     category: "Frontend",
   },
   {
-    name: "MySQL/Postgree",
+    name: "MySQL/PostgreSQL",
     level: 85,
     icon: Database,
     gradient: "from-blue-500 to-purple-500",
@@ -64,11 +65,18 @@ const skills = [
     category: "Tools",
   },
   {
-    name: "Bootstap/Tailwind CSS",
+    name: "Bootstrap/Tailwind CSS",
     level: 90,
     icon: Wrench,
     gradient: "from-teal-500 to-cyan-500",
     category: "Frontend",
+  },
+  {
+    name: "Docker",
+    level: 70,
+    icon: Boxes, // dari lucide-react
+    gradient: "from-sky-500 to-blue-600",
+    category: "DevOps",
   },
 ];
 
@@ -201,7 +209,7 @@ export default function SkillsSection() {
                         rounded-2xl border border-slate-800"
           >
             <div className="text-center">
-              <div className="text-2xl font-bold text-cyan-400">8+</div>
+              <div className="text-2xl font-bold text-cyan-400">9+</div>
               <div className="text-xs text-slate-500 uppercase tracking-wider">
                 Technologies
               </div>
