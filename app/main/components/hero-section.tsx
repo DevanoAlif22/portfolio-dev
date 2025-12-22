@@ -48,7 +48,7 @@ export default function HeroSection() {
             data-aos="fade-up"
             data-aos-delay="200"
           >
-            <a href="/file/cvdevano.pdf" download>
+            <a href="/file/cvdevano3.pdf" download>
               <Button className="gap-2 bg-gradient-to-r cursor-pointer from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 border-0 text-white font-semibold px-6 py-6 text-base">
                 <Download className="h-5 w-5" />
                 Download CV
